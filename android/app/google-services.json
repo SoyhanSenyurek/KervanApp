@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693684811697",
+    "project_id": "kervanapp",
+    "storage_bucket": "kervanapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693684811697:android:3314441c2c9a4dd9abaf90",
+        "android_client_info": {
+          "package_name": "com.ringos.kervan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693684811697-06lb5ra791i21d8k20k22g6ctmmnqs3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0v_z_JeYkEGUUAG8Rk0wOR_NlCb_D9wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693684811697-06lb5ra791i21d8k20k22g6ctmmnqs3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
